@@ -1,0 +1,201 @@
+,Unnamed: 0,From,To,Time (min)
+0,0,Internal Revenue Service,Granite Spgs,926
+1,1,Granite Spgs,Benson Mines,297
+2,2,Benson Mines,North Kansas City,847
+3,3,North Kansas City,Scio,753
+4,4,Colinas Del Gigante,Gaviota,401
+5,5,Adjuntas,Minnetrista,183
+6,6,Comunidad Las Flores,URB Country View,319
+7,7,URB Isabel La Catolica,Piperton,704
+8,8,Alts De Aguada,Corydon,549
+9,9,Corydon,Starks,374
+10,10,Starks,Schellsburg,32
+11,11,Schellsburg,Cypress,960
+12,12,Ramey,Loyalsockvle,513
+13,13,Aguadilla,W Terre Haute,528
+14,14,Repto Lopez,Sand Hill,967
+15,15,Sand Hill,Draper,208
+16,16,Draper,Maywood,263
+17,17,Maywood,Bayview Gardens,82
+18,18,Bayview Gardens,Warrenton,965
+19,19,Warrenton,Bda Collazo,188
+20,20,Villa Linda,Sarah Ann,588
+21,21,Villa Universitaria,Ontario Ctr,116
+22,22,Bo Ceiba Baja,Dept Public Property Cwlp,381
+23,23,URB Borinquen,Moravia,369
+24,24,Villa Alegria,Arnold,818
+25,25,Vista Alegre,Kinney,674
+26,26,URB San Carlos,Worthington,261
+27,27,Bda Caban,Shoreview,594
+28,28,Ext El Prado,Brighton Plt,914
+29,29,URB Esteves,New Paris,923
+30,30,URB Ramey,Sanoma,207
+31,31,Villas De Almeria,Soda Springs,903
+32,32,Bda Esteves,Rhyolite,391
+33,33,URB Las Americas,Gilboa,127
+34,34,URB Las Casitas Country Club,Westport,964
+35,35,URB Santa Marta,Big Run,480
+36,36,Ext Marbella,Camp Douglas,569
+37,37,Repto Juan Aguiar,Connerton,939
+38,38,Villa Lydia,Willwood,736
+39,39,Bo Borinquen,Morsemere,828
+40,40,Repto Jimenez,Liverpool,98
+41,41,URB El Prado,Orangeburg,642
+42,42,URB Marbella,Fountain Hill,719
+43,43,URB Rubianes,June Lake Junction,264
+44,44,Vista Verde,Grn Sphr Spgs,428
+45,45,Maricao,Mount Vernon,28
+46,46,URB San Juan Bautista,Clare,968
+47,47,Anasco,Baker,687
+48,48,Jard De Anasco,Truxton,737
+49,49,Repto Daguey,Clinton,382
+50,50,URB San Antonio,Mt Washington,610
+51,51,Brisas De Anasco,Milton,774
+52,52,Paseo Del Valle,Redrun,691
+53,53,Est De Valle Verde,Mason,156
+54,54,Angeles,Fairfax,50
+55,55,Comunidad Buenos Aires,Meyer,674
+56,56,Ext Tanama,Shafter,698
+57,57,Jard De San Rafael,Drummond Is,391
+58,58,URB College Park Iv,Pembroke,828
+59,59,URB Los Pinos,Ashland,134
+60,60,Villa Lucia,Landisville,218
+61,61,Vista Del Atlantico,Levittown,313
+62,62,Bo El Pasaje,Central City,484
+63,63,Hacienda Toledo,Cutuno,200
+64,64,Jard De Arecibo,Ronco,138
+65,65,Parc Mattey,Barstow,118
+66,66,Parq De Jardines,Skyshop Logistics Inc,794
+67,67,URB Arecibo Gdns,Baldwin Park,13
+68,68,URB Costas Del Atlantico,Lower Kalskag,409
+69,69,URB Los Llanos,URB Las Americas,967
+70,70,URB Martell,Lake Annette,367
+71,71,URB Regional,Davis City,569
+72,72,Villa Serena,Augusta,36
+73,73,Vista Azul,Stratford,152
+74,74,Bda Duhamel,Pennington,825
+75,75,Ext Villa Los Santos I,Elmo,761
+76,76,Parc Navas,Preston,539
+77,77,Paseos Reales,Cordova,36
+78,78,URB San Daniel,Pelsor,226
+79,79,Villa Los Santos,Summerland Key,358
+80,80,Villas Del Capitan,Savoy,139
+81,81,Villas Del Sol,Chickasaw,911
+82,82,URB Factor,Cape May Ch,225
+83,83,URB Garcia,Overly,641
+84,84,URB La Mucura,Betterton,603
+85,85,URB Marisol,N Charleston,759
+86,86,URB Ocean Vw,Saxe,946
+87,87,Parc Perez,Shelbiana,368
+88,88,Repto Marquez,Courtenay,936
+89,89,Sect Las Animas,Alamo,280
+90,90,URB El Paraiso,Olamon,783
+91,91,URB Garden View,Phoneton,157
+92,92,URB Los Pinos Ii,Mineral City,387
+93,93,URB Victor Rojas 2,Coalvale,296
+94,94,URB Villamar,Pine Grove,584
+95,95,Villa Toledo,Plymouth,834
+96,96,Arecibo,Cambria,896
+97,97,Bo Islote,Redingtn Shor,825
+98,98,Bo Jarealitos,Laguna Park,202
+99,99,Ext Marisol,Virginia,146
+100,100,Repto San Jose,Urbancrest,470
+101,101,Sect Abra,Hymera,395
+102,102,Sect El Cano,Woodville,457
+103,103,URB Las Brisas,Conway,939
+104,104,URB Radioville,W Burlington,437
+105,105,URB University Gdns,Benton,246
+106,106,Valle Escondido,Gwynn Oak,857
+107,107,Alt De San Felipe,Toronto,754
+108,108,Bo Islote Ii,Botkins,240
+109,109,Est De Arecibo,Berkeley,367
+110,110,Est De Balseiro,Panama,279
+111,111,Parc Rodriguez Olmo,Port Jervis,801
+112,112,Repto San Juan,Lackland A F B,110
+113,113,URB San Felipe,Orwell,562
+114,114,URB Victor Rojas 1,Kaiser,753
+115,115,URB Zeno Gandia,Koleen,259
+116,116,Alt De Juncos,Medina,503
+117,117,Bo Obrero,Ireland,453
+118,118,Bo Santana,Monticello,759
+119,119,Ext Villa Los Santos Ii,Big Otter,950
+120,120,Sect Muelle,Oak Point,225
+121,121,URB San Lorenzo,Rochdale,494
+122,122,URB Tanama,Lake Mead Rancheros,502
+123,123,Brisas Del Valle,Neapolis,319
+124,124,Bajadero,Port Allen,70
+125,125,Brisas De Llanadas,Harrison Twp,430
+126,126,Brisas Del Monte,Tennant,853
+127,127,Ext Parc Punta Palmas,Two Gray Hills,591
+128,128,Parc Palenque,URB Bella Lomas,986
+129,129,URB Cimarrona Ct,Alger,350
+130,130,URB Ortega,Joffre,490
+131,131,Villa Central,Avon Lake,108
+132,132,Parc Garrochales,Pine View,802
+133,133,Parc Tiburon,Melville,326
+134,134,URB Las Praderas,Sandy Rvr Plt,858
+135,135,URB Plazuela Estates,San Sebastian,369
+136,136,Bda Catalana,Jard Alhambra,448
+137,137,Est De Barceloneta,Brownsville,716
+138,138,Est De Florida,El Dara,952
+139,139,Ext Est De Imbery,Monticello,773
+140,140,Parc Punta Palmas,Evergreen,60
+141,141,Repto Las Llanadas,Prestonville,31
+142,142,URB Sol Naciente,Butler,453
+143,143,Villa Georgetti,Whispering Pines,903
+144,144,Barceloneta,Grassy Creek,820
+145,145,Parc Imbery,Sandoval,198
+146,146,Parc Magueyes,Maybrook,320
+147,147,Villa Barcelona,West Stockbridge Center,798
+148,148,URB Cataluna,Mackay,93
+149,149,URB Las Delicias,Dingle,560
+150,150,Villas De La Sabana,Uhc Berdon,819
+151,151,Villa Taina,Carousel Center,732
+152,152,Boqueron,Barclay,119
+153,153,Alts De Joyuda,Edgewater Prk,505
+154,154,Alts Del Mar,Grangerland,926
+155,155,Bo Ballaja,Rennerdale,612
+156,156,Bo Monte Grande,Berzelia,974
+157,157,Ext La Concepcion,Otego,210
+158,158,Jard Del Puerto,Lindsey,857
+159,159,Parc Betances,Beowawe,896
+160,160,URB Kofresi,Davenport,392
+161,161,URB Ramirez,Rancocas Woods,701
+162,162,Mansiones,La Crosse,114
+163,163,Parc Las Margaritas,Waverly,642
+164,164,Repto Oliveras,Leeper,971
+165,165,URB Alta Vista,West Brunswick,836
+166,166,Villa Del Carmen,Whatley,5
+167,167,Haciendas De Belvedere,E Pineville,959
+168,168,Qtas De Cabo Rojo,Houghton Mifflin Harcourt,891
+169,169,URB La Concepcion,Louviers,330
+170,170,URB Monte Grande,Kelso,348
+171,171,Est De Miramar,W Hampton Beach,923
+172,172,Haciendas De Cabo Rojo,Streator,683
+173,173,Mans De Cabo Rojo,Baker,351
+174,174,URB El Retiro,Custer,459
+175,175,URB Elizabeth,Epes,216
+176,176,Cabo Rojo,Coleman,601
+177,177,Est Reales,Colona,22
+178,178,Ext Sierra Linda,Pike,740
+179,179,Haciendas De Miramar,Burroughs,316
+180,180,Parc Elizabeth,Catawba,47
+181,181,Parc Las 35,Jay,92
+182,182,Parc Puerto Real,Lithopolis,419
+183,183,URB Las Vistas,Brookfield,80
+184,184,URB Montesol,Camden,253
+185,185,Paseos De Plan Bonito,Dell City,968
+186,186,URB Remanso De Cabo Rojo,Hyannis Port,79
+187,187,URB San Miguel,Rock Point,579
+188,188,Ext Elizabeth,Lockridge,694
+189,189,Repto Miradero,Maimi,810
+190,190,Villa Aida,Ray,627
+191,191,Villa Luisa,Barron,830
+192,192,Villas De Plan Bonito,Petersboro,154
+193,193,Ext Parc Elizabeth,Egypt,180
+194,194,URB Ana Maria,Valentine,720
+195,195,URB Borinquen,URB Sra Del Carmen,951
+196,196,URB Monte Rio,Ford Motor Credit Corp,894
+197,197,URB Sierra Linda,Danville,453
+198,198,Jard De Penuelas,Lake Emerald,475
+199,199,Alt De Penuelas Ii,White Cloud,696
